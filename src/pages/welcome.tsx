@@ -17,7 +17,7 @@ export function Welcome(){
 
       <TouchableOpacity style = {styles.button}>
         <Text>
-          
+          dashboard
            </Text>
       </TouchableOpacity>
 
